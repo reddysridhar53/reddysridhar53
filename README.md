@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a full stack web developer with 8+ years of experience. I have experience building Hybrid mobile applications using React Native
+
 <!--
 **reddysridhar53/reddysridhar53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
